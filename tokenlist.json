@@ -1,0 +1,17 @@
+{
+  "name": "DavinCoin List",
+  "timestamp": "2025-11-02T12:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "https://DavinCoin.github.io/davincoin-tokenlist/logo.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xfc419fc9dd8aEa4B74e0a9CEB2F6463E48a33fcf",
+      "name": "DavinCoin",
+      "symbol": "DAVC",
+      "decimals": 18,
+      "logoURI": "https://DavinCoin.github.io/davincoin-tokenlist/logo.png"
+    }
+  ]
+}
